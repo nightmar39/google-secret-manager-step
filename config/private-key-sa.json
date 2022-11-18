@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "codefresh-support",
+  "private_key_id": "e0fd6ca27049dea489b34ada0d55ffe51f50676a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9ZZYIaCh+IyhA\nB7t8munGBhACsfRsQdHRuWR5S6EU0CZdQ37fnHbAa3h3kFZtgSKvkaZ+2vo1lO3H\nlRlsoDa2Yp45Dxg7W6IpMPp2+EPQT2Rcs5fJj6lTgBbghZFXn7K7/6BIz2u5cH+0\nMa9nnQh29W3x4TdyWzF6RaTp5LFVsdoV/poW6U4QKlH6uasR6nkTDbzg7HIkBVmi\nsp6cwkKhNd/zCQyZU9L2NS0ehTpB4xAuItKdfhKFN2A/DEX/cjMbbugKWtfLe43H\ncQRFquJrl8XSwwzrVmb/VDiBqQHAl7L/6x4hfQNPze25mVTBISGgFBjnulbkqnot\nplch1UtnAgMBAAECggEAJTABGX16FepJSOk7wueX5y3hjuXqHCeATzGbrMVQx4ln\nPwC1tKpAFuADM1a/4ZhtexOaIWZVopevaHS6HT4IAB+0+XchRuZjHLtlMl7k0c4E\n4r7Qmt7+XErWMxeGxjGxIoC6tBEmEa8pI/RtgGaw9sqR3+BcxrNpL5zlGJeyyiRf\nE5lXBUHdp7SK603PhrZSsV9zwohzz7nzw4kfUQQOBHikXB1oFuHmqokHcMO0XFl3\nxo/LZ3q42DGaKoRbA+ijbfebT4qZIhiSanIgP0Ju4Fn5MbxcNrHN3KpednmRh6Td\nUUmFLv4VWrC8gPak+c0wpB7SDJqDI5QEgjiDRGwCAQKBgQDpczTAUYqxgquxx7Gw\npdl4QRssA2x1kO5l6EK08IkOBbb0YhItJYqUt7dk+zU5CJBAAKKcejzPRCr9gC2U\njzB9wFv+BMu98Sm8cIFiwWZYoPJttqDC1TpyMXyeB/SZ3ue782ooNITI2NHo/Cmx\nbhvZ1T3pSsCOeZy2dMdKBsdawQKBgQDPsQZG+pbQkKJNwqdQrGhZ34M2+6fO5MfI\naJ03DxIm/T5Jc83Ok39xuM7AitwJ0TM38iUOcW/jdvP89sM1X1BIwrPfnTH7cMQo\n+UNK6Lhwlvu7/DFKbGkOODt9fhSxtIT5ZLLOcfUykjzj1zxuZYTfreGaGVgB6TNS\nwew7Pex4JwKBgQCtXxi7BxPIdrHKCvMErHbQHxHt4vEGcscJua7or4Ypesb/wWGc\nU7gScEnr3cAOBjUSwyYAratBhm+i6jFvldO+YEAxayBghJypTKhaTiUTBxxjrHDB\noReRvPy+ZEwchfV1mPWqvC4s9xEVRUg1c/+NDBe5jQFqDhj7S8jBSj19QQKBgC74\nBMhmgVbXbq0ROU9oPg0dHAqCLPgACyJKbkt2UA+bM8vesYtnFeo89hzbCln6ApBD\nZZf3lWsmipUJpSnbzUc3KQCIBzaq0OHHRS2apaNosbNYnDkNfVCm7OU7byik/3F7\nEWjYoq/2HGkWUudQdBU1uJBl7N45w86SZn8bSO//AoGAVFGUCdm6pWMpD048gxNn\n3ClqgzDgqjDd6VhH2sLv67s/3xbVKJ1Qw1UEbUSwCCZ2izngLyIM4UJ1s7LVUhG3\nhyn4cILzOtBcw3HgoDEfLAsiVtpEtwgYNqk2K0QRy32bLJn/XBP6LJvi/3ZkSY9N\n/0FkF/s7cRZAIVaM4lltdqw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "secret-manager-sa@codefresh-support.iam.gserviceaccount.com",
+  "client_id": "112680768576345891165",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/secret-manager-sa%40codefresh-support.iam.gserviceaccount.com"
+}
